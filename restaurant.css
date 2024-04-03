@@ -1,0 +1,246 @@
+.bgimg{
+    height:100vh;
+    background-image:url("https://img.freepik.com/free-photo/vegetables-italian-knife-placed-left-black-table_1220-684.jpg?w=1380&t=st=1697280847~exp=1697281447~hmac=59d9a445f7eeca893737c305c8e43ef0d0965bd37837d1bbf7448636819c2015");
+    background-size:cover;
+}
+.bannerheading{
+    color:white;
+    font-family:"Roboto";
+    font-size:45px;
+    font-weight:300;
+}
+.caption{
+    color:white;
+    font-family:"Roboto";
+    font-size:24px;
+    font-weight:300;
+
+}
+.cus-outline{
+    width:130px;
+    height: 45px;
+    color:#d0b200;
+    background-color:transparent;
+    border-width:1px;
+    border-style:solid;
+    border-color:#d0b200;
+    border-radius:8px;
+}
+.cus-button{
+    width:130px;
+    height: 45px;
+    color:white;
+    background-color:#d0b200;
+    border-width:0px;
+    border-radius:8px;
+    margin-right:10px;
+}
+.text-cn{ 
+    text-align: center;
+}
+.logoimg{
+    height:80px;
+    width:80px;
+    border-width:0px;
+}
+#cus-navbar{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#cus-navbar2{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#cus-navbar3{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#cus-navbar4{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+.card-center{
+    text-align:center;
+}
+
+.wcu-hd{
+    font-family:"Roboto";
+    font-weight:700;
+    font-size:28px;
+    color:#183b56;
+}
+.wcu-bg{
+    background-color:#f9fbfe;
+}
+.wcu-pr{
+    font-family:"Roboto";
+    font-size:16px;
+    color:#5a7184;
+    font-weight:500;
+}
+.wc-card{
+    background-color:white;
+    text-align: center;
+    border-style:solid;
+    border-width:1px;
+    border-color:#e5eaf4;
+    border-radius:16px;
+}
+.wcu-card-img{
+    height:90px;
+    width:87px;
+}
+.wcu-cardt{
+    font-family:"Roboto";
+    font-weight:500;
+    font-size:22px;
+    color:#323f4b;
+    margin-bottom: 3px;;
+}
+.wc-card-ds{
+    color:#7b8794;
+    font-family:"Roboto";
+    font-size:16px;
+}
+.offers{
+   font-style: italic;
+   color:#323f4b;
+   font-weight:600;
+}
+.menu-t-bg{
+    background-color:white;
+}
+.menu-hd{
+    font-family: "Roboto";
+    font-weight:700;
+    color:#183b56;
+    font-size:28px;
+}
+.menu-img{
+    border-radius:16px;
+}
+.menu-card-item{
+    border-radius:16px;
+}
+.menu-ud{
+    color:#050708;
+    font-family:"Roboto";
+    font-weight:500;
+    font-size:18px;
+    margin-top:24px;
+}
+.menu-card-link{
+    font-family: "Roboto";
+    color:#d0b200;
+    font-weight:500;
+    font-size:14px;
+}
+.food-sec{
+    width:270px
+}
+.food-hd{
+    color:#183b56;
+    font-family:"Roboto";
+    font-size:28px;
+    font-family:700;
+}
+.food-des{
+    color:#5a7184;
+    font-family:"Roboto";
+    font-size:16px;;
+}
+.food-button{
+    color:white;
+    background-color:#d0b200;
+    width:130px;
+    height:45px;
+    border-width:0;
+    border-radius:8px;
+    margin-right:10px;
+}
+.food-bg{
+    background-color:#f9fbfe;
+}
+.py-bg{
+    background-color:white;
+}
+.py-cardimg{
+    width:50px;
+    height:50px;
+    margin-right:28px;
+}
+.tx-button{
+    color:white;
+    background-color:#d0b200;
+    width:130px;
+    height:45px;
+    border-width:0px;
+    border-radius: 8px;
+    margin-right:10px;
+}
+.tx-bg{
+    background-color:#d0b2001a;
+}
+.tx-hd{
+    color:#183b56;
+    font-family: "Roboto";
+    font-size:28px;
+    font-weight:700;
+}
+.tx-p{
+    color:#5a7184;
+    font-family:"Roboto";
+    font-size:16px;
+}
+.tx-img{
+    width:270px;
+    margin-bottom: 20px;
+}
+.fl-bg{
+    background-color:white;
+
+}
+.fl-hd{
+    text-align:center;
+    color:#183b56;
+    font-family:"Roboto";
+    font-size:28px;
+    font-weight:700;
+}
+.icon-container{
+    background-color:#faf7e8;
+    width:80px;
+    border-radius:40px;
+    margin:15px;
+    padding-top:22px;
+    padding-bottom:14px;
+    padding-right:16px;
+    padding-left:22px;
+}
+.icon{
+    color:#d0b200;
+    font-size:35px;
+}
+.background{
+    background-color:#0d2436;;
+}
+.imgtag{
+    height:100px;
+    width:140px;
+    border-width:0px;
+}
+.hd-tag{
+    font-family:"Roboto";
+    font-size:24px;
+    font-weight:700;
+    color: #959ead;
+    margin-top:20px;
+}
+.p-tag{
+    font-family:"Roboto";
+    font-size:14px;
+    color: #959595;
+}
+.txt-cen{
+    text-align: center;
+}
